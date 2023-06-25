@@ -1,0 +1,4 @@
+# Ensuring-Smiles-using-Spark-ML
+We aim to provide insights on routine dental service coverage based on plan details and other relevant factors.
+The importance of our work lies in supporting timely benefits analysis, rate evaluation, copayment assessment, premium analysis, and geographic coverage analysis. By applying machine learning algorithms such as Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, Gradient Boost and Factorization Machine we contribute to the field by offering practical recommendations for selecting appropriate health insurance plans based on income and expenses.
+Our background involves utilizing big data technologies and advanced machine learning techniques to improve classification accuracy. By comparing the performance of different algorithms, we provide valuable insights for individuals and insurance stakeholders in making informed decisions regarding health coverage options.
